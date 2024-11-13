@@ -1,1141 +1,1046 @@
 {
-	"posts": [
-		{
-			"id": "1",
-			"title": "a title",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 100,
-			"isFav": false,
-			"type": "發案",
-			"job": "前端",
-			"content": "我希望什麼網站我希望什麼網站我希望什麼網站",
-			"name": "John Doe"
-		},
-		{
-			"id": "2",
-			"title": "a title",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 100,
-			"isFav": true,
-			"type": "接案",
-			"job": "後端",
-			"content": "我希望可以幫我",
-			"name": "Jane Smith"
-		},
-		{
-			"id": "3",
-			"title": "design challenge",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 150,
-			"isFav": true,
-			"type": "發案",
-			"job": "UI設計",
-			"content": "需要設計一個新網站",
-			"name": "Alice Lee"
-		},
-		{
-			"id": "4",
-			"title": "API integration",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 200,
-			"isFav": false,
-			"type": "接案",
-			"job": "後端",
-			"content": "請幫忙整合不同的API服務",
-			"name": "Bob Wang"
-		},
-		{
-			"id": "5",
-			"title": "social media site",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 120,
-			"isFav": false,
-			"type": "發案",
-			"job": "前端",
-			"content": "開發一個社交媒體平台",
-			"name": "Charlie Chen"
-		},
-		{
-			"id": "6",
-			"title": "bug fixing",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 90,
-			"isFav": true,
-			"type": "接案",
-			"job": "全端",
-			"content": "修復網站中的bug和錯誤",
-			"name": "David Zhang"
-		},
-		{
-			"id": "7",
-			"title": "dashboard design",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 180,
-			"isFav": false,
-			"type": "發案",
-			"job": "UI設計",
-			"content": "設計一個用戶儀表板",
-			"name": "Eva Liu"
-		},
-		{
-			"id": "8",
-			"title": "ecommerce platform",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 250,
-			"isFav": true,
-			"type": "接案",
-			"job": "後端",
-			"content": "建立一個電子商務平台",
-			"name": "Frank Yang"
-		},
-		{
-			"id": "9",
-			"title": "SEO optimization",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 160,
-			"isFav": false,
-			"type": "接案",
-			"job": "前端",
-			"content": "優化網站的SEO以提升搜索排名",
-			"name": "Grace Wu"
-		},
-		{
-			"id": "10",
-			"title": "mobile app development",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 220,
-			"isFav": true,
-			"type": "發案",
-			"job": "移動端開發",
-			"content": "開發一款手機應用程序",
-			"name": "Hank Zhao"
-		},
-		{
-			"id": "11",
-			"title": "content management system",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 130,
-			"isFav": false,
-			"type": "接案",
-			"job": "全端",
-			"content": "建立一個簡單的內容管理系統",
-			"name": "Ivy Sun"
-		},
-		{
-			"id": "12",
-			"title": "UX testing",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 110,
-			"isFav": true,
-			"type": "發案",
-			"job": "UI設計",
-			"content": "進行用戶體驗測試並提供反饋",
-			"name": "Jackie Tan"
-		},
-		{
-			"id": "13",
-			"title": "data analytics tool",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 300,
-			"isFav": false,
-			"type": "接案",
-			"job": "後端",
-			"content": "幫忙開發數據分析工具",
-			"name": "Kevin Hu"
-		},
-		{
-			"id": "14",
-			"title": "web scraping",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 270,
-			"isFav": true,
-			"type": "發案",
-			"job": "後端",
-			"content": "編寫一個網站抓取工具",
-			"name": "Linda Liu"
-		},
-		{
-			"id": "15",
-			"title": "video streaming platform",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 220,
-			"isFav": true,
-			"type": "接案",
-			"job": "全端",
-			"content": "開發視頻流媒體平台",
-			"name": "Michael Li"
-		},
-		{
-			"id": "16",
-			"title": "user authentication system",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 180,
-			"isFav": false,
-			"type": "發案",
-			"job": "後端",
-			"content": "設計並開發用戶身份驗證系統",
-			"name": "Nancy Wang"
-		},
-		{
-			"id": "17",
-			"title": "AI chatbot",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 210,
-			"isFav": true,
-			"type": "接案",
-			"job": "AI開發",
-			"content": "開發一個AI聊天機器人",
-			"name": "Oscar Zhang"
-		},
-		{
-			"id": "18",
-			"title": "email marketing system",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 150,
-			"isFav": false,
-			"type": "發案",
-			"job": "後端",
-			"content": "建立一個電子郵件營銷系統",
-			"name": "Paul Hu"
-		},
-		{
-			"id": "19",
-			"title": "content writing",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 200,
-			"isFav": true,
-			"type": "接案",
-			"job": "寫作",
-			"content": "提供網站內容寫作服務",
-			"name": "Quincy Chen"
-		},
-		{
-			"id": "20",
-			"title": "product page design",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 170,
-			"isFav": false,
-			"type": "發案",
-			"job": "UI設計",
-			"content": "設計一個產品頁面",
-			"name": "Rachel Tan"
-		},
-		{
-			"id": "21",
-			"title": "payment gateway integration",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 300,
-			"isFav": true,
-			"type": "接案",
-			"job": "後端",
-			"content": "集成支付閘道",
-			"name": "Steve Zhang"
-		},
-		{
-			"id": "22",
-			"title": "membership website",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 140,
-			"isFav": false,
-			"type": "發案",
-			"job": "前端",
-			"content": "建立會員網站",
-			"name": "Tina Liu"
-		},
-		{
-			"id": "23",
-			"title": "mobile game development",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 230,
-			"isFav": true,
-			"type": "接案",
-			"job": "遊戲開發",
-			"content": "開發手機遊戲",
-			"name": "Ursula Wang"
-		},
-		{
-			"id": "24",
-			"title": "cloud hosting setup",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 160,
-			"isFav": false,
-			"type": "發案",
-			"job": "後端",
-			"content": "配置雲服務托管環境",
-			"name": "Victor Yang"
-		},
-		{
-			"id": "25",
-			"title": "server migration",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 200,
-			"isFav": true,
-			"type": "接案",
-			"job": "後端",
-			"content": "幫忙遷移伺服器",
-			"name": "Wendy Huang"
-		},
-		{
-			"id": "26",
-			"title": "site performance optimization",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 180,
-			"isFav": true,
-			"type": "發案",
-			"job": "前端",
-			"content": "優化網站性能以提高加載速度",
-			"name": "Xander Lee"
-		},
-		{
-			"id": "27",
-			"title": "portfolio website",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 160,
-			"isFav": false,
-			"type": "接案",
-			"job": "前端",
-			"content": "建立一個個人作品集網站",
-			"name": "Yvonne Tan"
-		},
-		{
-			"id": "28",
-			"title": "CRM system",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 280,
-			"isFav": true,
-			"type": "發案",
-			"job": "後端",
-			"content": "開發客戶關係管理系統",
-			"name": "Zachary Zhang"
-		},
-		{
-			"id": "29",
-			"title": "newsletter system",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 220,
-			"isFav": false,
-			"type": "接案",
-			"job": "後端",
-			"content": "建立一個電子郵件新聞訂閱系統",
-			"name": "Alice Yang"
-		},
-		{
-			"id": "30",
-			"title": "augmented reality app",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 350,
-			"isFav": true,
-			"type": "發案",
-			"job": "移動端開發",
-			"content": "開發增強現實應用程式",
-			"name": "Bruce Tan"
-		},
-		{
-			"id": "31",
-			"title": "multi-language website",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 210,
-			"isFav": false,
-			"type": "接案",
-			"job": "前端",
-			"content": "創建一個支持多語言的網站",
-			"name": "Cindy Wu"
-		},
-		{
-			"id": "32",
-			"title": "website redesign",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 250,
-			"isFav": true,
-			"type": "發案",
-			"job": "UI設計",
-			"content": "重新設計現有網站",
-			"name": "David Lee"
-		},
-		{
-			"id": "33",
-			"title": "inventory management system",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 300,
-			"isFav": false,
-			"type": "接案",
-			"job": "後端",
-			"content": "開發庫存管理系統",
-			"name": "Eva Chen"
-		},
-		{
-			"id": "34",
-			"title": "live chat integration",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 210,
-			"isFav": true,
-			"type": "發案",
-			"job": "全端",
-			"content": "集成實時聊天系統",
-			"name": "Frankie Sun"
-		},
-		{
-			"id": "35",
-			"title": "photo gallery website",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 180,
-			"isFav": false,
-			"type": "接案",
-			"job": "前端",
-			"content": "建立一個圖片庫網站",
-			"name": "Grace Zhao"
-		},
-		{
-			"id": "36",
-			"title": "digital marketing strategy",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 130,
-			"isFav": true,
-			"type": "發案",
-			"job": "行銷",
-			"content": "提供數字行銷策略",
-			"name": "Hannah Liu"
-		},
-		{
-			"id": "37",
-			"title": "website analytics tool",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 260,
-			"isFav": false,
-			"type": "接案",
-			"job": "後端",
-			"content": "開發網站分析工具",
-			"name": "Ian Zhang"
-		},
-		{
-			"id": "38",
-			"title": "blogging platform",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 150,
-			"isFav": true,
-			"type": "發案",
-			"job": "前端",
-			"content": "建立一個博客平台",
-			"name": "Jessica Wang"
-		},
-		{
-			"id": "39",
-			"title": "subscription service",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 220,
-			"isFav": false,
-			"type": "接案",
-			"job": "後端",
-			"content": "創建一個訂閱服務系統",
-			"name": "Kevin Li"
-		},
-		{
-			"id": "40",
-			"title": "chatbot for customer service",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 270,
-			"isFav": true,
-			"type": "發案",
-			"job": "AI開發",
-			"content": "設計用於客服的聊天機器人",
-			"name": "Laura Zhang"
-		},
-		{
-			"id": "41",
-			"title": "real-time notifications",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 200,
-			"isFav": false,
-			"type": "接案",
-			"job": "後端",
-			"content": "實現即時通知系統",
-			"name": "Mark Wang"
-		},
-		{
-			"id": "42",
-			"title": "online booking system",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 300,
-			"isFav": true,
-			"type": "發案",
-			"job": "後端",
-			"content": "開發線上預訂系統",
-			"name": "Nina Tan"
-		},
-		{
-			"id": "43",
-			"title": "fitness app",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 250,
-			"isFav": false,
-			"type": "接案",
-			"job": "移動端開發",
-			"content": "開發一款健身應用程式",
-			"name": "Oscar Liu"
-		},
-		{
-			"id": "44",
-			"title": "interactive website",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 190,
-			"isFav": true,
-			"type": "發案",
-			"job": "前端",
-			"content": "設計並開發一個互動網站",
-			"name": "Peter Sun"
-		},
-		{
-			"id": "45",
-			"title": "audio streaming service",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 240,
-			"isFav": false,
-			"type": "接案",
-			"job": "後端",
-			"content": "開發音頻流媒體服務",
-			"name": "Quincy Zhao"
-		},
-		{
-			"id": "46",
-			"title": "document management system",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 180,
-			"isFav": true,
-			"type": "發案",
-			"job": "後端",
-			"content": "建立文件管理系統",
-			"name": "Rachel Li"
-		},
-		{
-			"id": "47",
-			"title": "freelancer platform",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 220,
-			"isFav": false,
-			"type": "接案",
-			"job": "全端",
-			"content": "開發自由職業者平台",
-			"name": "Steve Hu"
-		},
-		{
-			"id": "48",
-			"title": "crowdfunding platform",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 260,
-			"isFav": true,
-			"type": "發案",
-			"job": "後端",
-			"content": "建立一個眾籌平台",
-			"name": "Tracy Wang"
-		},
-		{
-			"id": "49",
-			"title": "interactive game",
-			"img": "http://localhost:8000/src/assets/image/user.png",
-			"views": 280,
-			"isFav": false,
-			"type": "接案",
-			"job": "遊戲開發",
-			"content": "開發互動遊戲",
-			"name": "Ursula Zhang"
-		}
-	],
-	"search": [
-		{
-			"id": "1",
-			"title": "專案介紹",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 120,
-			"isFav": true,
-			"type": "發案",
-			"articleType": "圖文",
-			"job": "後端",
-			"content": "專案概述以及如何開始。",
-			"name": "Alice"
-		},
-		{
-			"id": "2",
-			"title": "影音教學：網站建設",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 250,
-			"isFav": false,
-			"type": "課程",
-			"articleType": "短影音",
-			"job": "全端",
-			"content": "這是一段講解如何建設網站的影音內容。",
-			"name": "Bob"
-		},
-		{
-			"id": "3",
-			"title": "最新前端技術",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 300,
-			"isFav": true,
-			"type": "發案",
-			"articleType": "圖文",
-			"job": "UI 設計師",
-			"content": "探索當前前端技術及框架的最新趨勢。",
-			"name": "Charlie"
-		},
-		{
-			"id": "4",
-			"title": "視頻面試技巧",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 150,
-			"isFav": false,
-			"type": "課程",
-			"articleType": "短影音",
-			"job": "面試官",
-			"content": "這是我們的視頻教程，教你如何在面試中表現出色。",
-			"name": "David"
-		},
-		{
-			"id": "5",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": true,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "Eve"
-		},
-		{
-			"id": "6",
-			"title": "前端開發工具介紹",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 180,
-			"isFav": false,
-			"type": "發案",
-			"articleType": "圖文",
-			"job": "前端工程師",
-			"content": "在這篇文章中，我會介紹一些必備的前端開發工具。",
-			"name": "Frank"
-		},
-		{
-			"id": "7",
-			"title": "如何使用 Git 進行版本控制",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 220,
-			"isFav": true,
-			"type": "課程",
-			"articleType": "圖文",
-			"job": "後端工程師",
-			"content": "這篇文章詳細介紹如何使用 Git 進行版本控制。",
-			"name": "Grace"
-		},
-		{
-			"id": "8",
-			"title": "編程語言的未來",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 500,
-			"isFav": false,
-			"type": "討論",
-			"articleType": "短影音",
-			"job": "開發者",
-			"content": "這是一段有關編程語言未來發展的討論視頻。",
-			"name": "Hank"
-		},
-		{
-			"id": "9",
-			"title": "解密 UX/UI 設計",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 410,
-			"isFav": true,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "UX 設計師",
-			"content": "這篇文章會深入解釋 UX/UI 設計的基本原則和實踐。",
-			"name": "Ivy"
-		},
-		{
-			"id": "10",
-			"title": "敏捷開發工作流程",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 130,
-			"isFav": true,
-			"type": "課程",
-			"articleType": "短影音",
-			"job": "專案經理",
-			"content": "介紹敏捷開發的工作流程以及最佳實踐。",
-			"name": "Jack"
-		},
-		{
-			"id": "11",
-			"title": "如何在 SEO 中獲得高排名",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 650,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "SEO 專家",
-			"content": "這篇文章會介紹一些提升網站排名的 SEO 技巧。",
-			"name": "Kara"
-		},
-		{
-			"id": "12",
-			"title": "創建 API 的最佳實踐",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 320,
-			"isFav": true,
-			"type": "教程",
-			"articleType": "圖文",
-			"job": "API 開發者",
-			"content": "本教程介紹如何設計高效的 API 和最佳實踐。",
-			"name": "Liam"
-		},
-		{
-			"id": "13",
-			"title": "網絡安全基礎",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 480,
-			"isFav": false,
-			"type": "課程",
-			"articleType": "短影音",
-			"job": "安全專家",
-			"content": "視頻介紹網絡安全的基本知識及防護措施。",
-			"name": "Mona"
-		},
-		{
-			"id": "14",
-			"title": "現代 JavaScript 框架",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 370,
-			"isFav": true,
-			"type": "發案",
-			"articleType": "圖文",
-			"job": "JavaScript 開發者",
-			"content": "這篇文章介紹現代 JavaScript 框架的比較與選擇。",
-			"name": "Nina"
-		},
-		{
-			"id": "15",
-			"title": "面向對象編程基礎",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 420,
-			"isFav": false,
-			"type": "教程",
-			"articleType": "短影音",
-			"job": "軟件工程師",
-			"content": "這段視頻介紹面向對象編程的基礎知識。",
-			"name": "Oscar"
-		},
-		{
-			"id": "16",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": true,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "Ivan"
-		},
-		{
-			"id": "17",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "NoNo"
-		},
-		{
-			"id": "18",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "Yes Nam"
-		},
-		{
-			"id": "17",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "NoNo"
-		},
-		{
-			"id": "18",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "Yes Nam"
-		},
-		{
-			"id": "17",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "NoNo"
-		},
-		{
-			"id": "18",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "Yes Nam"
-		},
-		{
-			"id": "17",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "NoNo"
-		},
-		{
-			"id": "18",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "Yes Nam"
-		},
-		{
-			"id": "17",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "NoNo"
-		},
-		{
-			"id": "18",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "Yes Nam"
-		},
-		{
-			"id": "17",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "NoNo"
-		},
-		{
-			"id": "18",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "Yes Nam"
-		},
-		{
-			"id": "17",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "NoNo"
-		},
-		{
-			"id": "18",
-			"title": "如何設計高效的界面",
-			"bg": "http://localhost:8000/src/assets/image/fake-bg.png",
-			"avatar": "http://localhost:8000/src/assets/image/user.png",
-			"images": [
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png",
-				"http://localhost:8000/src/assets/assets/image/fake-carousel.png"
-			],
-			"views": 200,
-			"isFav": false,
-			"type": "分享",
-			"articleType": "圖文",
-			"job": "產品經理",
-			"content": "介紹如何設計高效且用戶友好的界面。",
-			"name": "Yes Nam"
-		}
-	],
-	"deposit": [
-		{ "id": 1, "amount": 2, "date": "2024-10-12 12:00" },
-		{ "id": 2, "amount": 5, "date": "2024-10-13 14:20" },
-		{ "id": 3, "amount": 8, "date": "2024-10-14 09:30" },
-		{ "id": 4, "amount": 3, "date": "2024-10-15 16:45" },
-		{ "id": 5, "amount": 6, "date": "2024-10-16 11:10" },
-		{ "id": 6, "amount": 7, "date": "2024-10-17 08:25" },
-		{ "id": 7, "amount": 4, "date": "2024-10-18 10:15" },
-		{ "id": 8, "amount": 9, "date": "2024-10-19 13:50" },
-		{ "id": 9, "amount": 1, "date": "2024-10-20 17:05" },
-		{ "id": 10, "amount": 3, "date": "2024-10-21 06:30" },
-		{ "id": 11, "amount": 2, "date": "2024-10-22 07:45" },
-		{ "id": 12, "amount": 5, "date": "2024-10-23 12:00" },
-		{ "id": 13, "amount": 6, "date": "2024-10-24 14:35" },
-		{ "id": 14, "amount": 4, "date": "2024-10-25 15:50" },
-		{ "id": 15, "amount": 8, "date": "2024-10-26 18:20" }
-	],
-	"member": {
-		"money": 260,
-		"name": "Alice Lee",
-		"id": 1,
-		"location": "高雄",
-		"city": "左營",
-		"fans": 166,
-		"follower": 166
-	}
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 100,
+      "isFav": false,
+      "type": "發案",
+      "job": "前端",
+      "content": "我希望什麼網站我希望什麼網站我希望什麼網站",
+      "name": "John Doe"
+    },
+    {
+      "id": "2",
+      "title": "a title",
+      "img": "https://picsum.photos/200?random=2",
+      "views": 100,
+      "isFav": true,
+      "type": "接案",
+      "job": "後端",
+      "content": "我希望可以幫我",
+      "name": "Jane Smith"
+    },
+    {
+      "id": "3",
+      "title": "design challenge",
+      "img": "https://picsum.photos/200?random=3",
+      "views": 150,
+      "isFav": true,
+      "type": "發案",
+      "job": "UI設計",
+      "content": "需要設計一個新網站",
+      "name": "Alice Lee"
+    },
+    {
+      "id": "4",
+      "title": "API integration",
+      "img": "https://picsum.photos/200?random=4",
+      "views": 200,
+      "isFav": false,
+      "type": "接案",
+      "job": "後端",
+      "content": "請幫忙整合不同的API服務",
+      "name": "Bob Wang"
+    },
+    {
+      "id": "5",
+      "title": "social media site",
+      "img": "https://picsum.photos/200?random=5",
+      "views": 120,
+      "isFav": false,
+      "type": "發案",
+      "job": "前端",
+      "content": "開發一個社交媒體平台",
+      "name": "Charlie Chen"
+    },
+    {
+      "id": "6",
+      "title": "bug fixing",
+      "img": "https://picsum.photos/200?random=6",
+      "views": 90,
+      "isFav": true,
+      "type": "接案",
+      "job": "全端",
+      "content": "修復網站中的bug和錯誤",
+      "name": "David Zhang"
+    },
+    {
+      "id": "7",
+      "title": "dashboard design",
+      "img": "https://picsum.photos/200?random=7",
+      "views": 180,
+      "isFav": false,
+      "type": "發案",
+      "job": "UI設計",
+      "content": "設計一個用戶儀表板",
+      "name": "Eva Liu"
+    },
+    {
+      "id": "8",
+      "title": "ecommerce platform",
+      "img": "https://picsum.photos/200?random=8",
+      "views": 250,
+      "isFav": true,
+      "type": "接案",
+      "job": "後端",
+      "content": "建立一個電子商務平台",
+      "name": "Frank Yang"
+    },
+    {
+      "id": "9",
+      "title": "SEO optimization",
+      "img": "https://picsum.photos/200?random=9",
+      "views": 160,
+      "isFav": false,
+      "type": "接案",
+      "job": "前端",
+      "content": "優化網站的SEO以提升搜索排名",
+      "name": "Grace Wu"
+    },
+    {
+      "id": "10",
+      "title": "mobile app development",
+      "img": "https://picsum.photos/200?random=10",
+      "views": 220,
+      "isFav": true,
+      "type": "發案",
+      "job": "移動端開發",
+      "content": "開發一款手機應用程序",
+      "name": "Hank Zhao"
+    },
+    {
+      "id": "11",
+      "title": "content management system",
+      "img": "https://picsum.photos/200?random=11",
+      "views": 130,
+      "isFav": false,
+      "type": "接案",
+      "job": "全端",
+      "content": "建立一個簡單的內容管理系統",
+      "name": "Ivy Sun"
+    },
+    {
+      "id": "12",
+      "title": "UX testing",
+      "img": "https://picsum.photos/200?random=12",
+      "views": 110,
+      "isFav": true,
+      "type": "發案",
+      "job": "UI設計",
+      "content": "進行用戶體驗測試並提供反饋",
+      "name": "Jackie Tan"
+    },
+    {
+      "id": "13",
+      "title": "data analytics tool",
+      "img": "https://picsum.photos/200?random=13",
+      "views": 300,
+      "isFav": false,
+      "type": "接案",
+      "job": "後端",
+      "content": "幫忙開發數據分析工具",
+      "name": "Kevin Hu"
+    },
+    {
+      "id": "14",
+      "title": "web scraping",
+      "img": "https://picsum.photos/200?random=14",
+      "views": 270,
+      "isFav": true,
+      "type": "發案",
+      "job": "後端",
+      "content": "編寫一個網站抓取工具",
+      "name": "Linda Liu"
+    },
+    {
+      "id": "15",
+      "title": "video streaming platform",
+      "img": "https://picsum.photos/200?random=15",
+      "views": 220,
+      "isFav": true,
+      "type": "接案",
+      "job": "全端",
+      "content": "開發視頻流媒體平台",
+      "name": "Michael Li"
+    },
+    {
+      "id": "16",
+      "title": "user authentication system",
+      "img": "https://picsum.photos/200?random=16",
+      "views": 180,
+      "isFav": false,
+      "type": "發案",
+      "job": "後端",
+      "content": "設計並開發用戶身份驗證系統",
+      "name": "Nancy Wang"
+    },
+    {
+      "id": "17",
+      "title": "AI chatbot",
+      "img": "https://picsum.photos/200?random=17",
+      "views": 210,
+      "isFav": true,
+      "type": "接案",
+      "job": "AI開發",
+      "content": "開發一個AI聊天機器人",
+      "name": "Oscar Zhang"
+    },
+    {
+      "id": "18",
+      "title": "email marketing system",
+      "img": "https://picsum.photos/200?random=18",
+      "views": 150,
+      "isFav": false,
+      "type": "發案",
+      "job": "後端",
+      "content": "建立一個電子郵件營銷系統",
+      "name": "Paul Hu"
+    },
+    {
+      "id": "19",
+      "title": "content writing",
+      "img": "https://picsum.photos/200?random=19",
+      "views": 200,
+      "isFav": true,
+      "type": "接案",
+      "job": "寫作",
+      "content": "提供網站內容寫作服務",
+      "name": "Quincy Chen"
+    },
+    {
+      "id": "20",
+      "title": "product page design",
+      "img": "https://picsum.photos/200?random=20",
+      "views": 170,
+      "isFav": false,
+      "type": "發案",
+      "job": "UI設計",
+      "content": "設計一個產品頁面",
+      "name": "Rachel Tan"
+    },
+    {
+      "id": "21",
+      "title": "payment gateway integration",
+      "img": "https://picsum.photos/200?random=21",
+      "views": 300,
+      "isFav": true,
+      "type": "接案",
+      "job": "後端",
+      "content": "集成支付閘道",
+      "name": "Steve Zhang"
+    },
+    {
+      "id": "22",
+      "title": "membership website",
+      "img": "https://picsum.photos/200?random=22",
+      "views": 140,
+      "isFav": false,
+      "type": "發案",
+      "job": "前端",
+      "content": "建立會員網站",
+      "name": "Tina Liu"
+    },
+    {
+      "id": "23",
+      "title": "mobile game development",
+      "img": "https://picsum.photos/200?random=23",
+      "views": 230,
+      "isFav": true,
+      "type": "接案",
+      "job": "遊戲開發",
+      "content": "開發一個手機遊戲",
+      "name": "Uma Zhang"
+    },
+    {
+      "id": "24",
+      "title": "real-time chat system",
+      "img": "https://picsum.photos/200?random=24",
+      "views": 280,
+      "isFav": true,
+      "type": "發案",
+      "job": "後端",
+      "content": "開發一個即時聊天系統",
+      "name": "Victor Li"
+    },
+    {
+      "id": "25",
+      "title": "CRM system",
+      "img": "https://picsum.photos/200?random=25",
+      "views": 210,
+      "isFav": false,
+      "type": "接案",
+      "job": "全端",
+      "content": "建立一個CRM系統",
+      "name": "Wendy Tan"
+    },
+    {
+      "id": "26",
+      "title": "site performance optimization",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 180,
+      "isFav": true,
+      "type": "發案",
+      "job": "前端",
+      "content": "優化網站性能以提高加載速度",
+      "name": "Xander Lee"
+    },
+    {
+      "id": "27",
+      "title": "portfolio website",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 160,
+      "isFav": false,
+      "type": "接案",
+      "job": "前端",
+      "content": "建立一個個人作品集網站",
+      "name": "Yvonne Tan"
+    },
+    {
+      "id": "28",
+      "title": "CRM system",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 280,
+      "isFav": true,
+      "type": "發案",
+      "job": "後端",
+      "content": "開發客戶關係管理系統",
+      "name": "Zachary Zhang"
+    },
+    {
+      "id": "29",
+      "title": "newsletter system",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 220,
+      "isFav": false,
+      "type": "接案",
+      "job": "後端",
+      "content": "建立一個電子郵件新聞訂閱系統",
+      "name": "Alice Yang"
+    },
+    {
+      "id": "30",
+      "title": "augmented reality app",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 350,
+      "isFav": true,
+      "type": "發案",
+      "job": "移動端開發",
+      "content": "開發增強現實應用程式",
+      "name": "Bruce Tan"
+    },
+    {
+      "id": "31",
+      "title": "multi-language website",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 210,
+      "isFav": false,
+      "type": "接案",
+      "job": "前端",
+      "content": "創建一個支持多語言的網站",
+      "name": "Cindy Wu"
+    },
+    {
+      "id": "32",
+      "title": "website redesign",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 250,
+      "isFav": true,
+      "type": "發案",
+      "job": "UI設計",
+      "content": "重新設計現有網站",
+      "name": "David Lee"
+    },
+    {
+      "id": "33",
+      "title": "inventory management system",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 300,
+      "isFav": false,
+      "type": "接案",
+      "job": "後端",
+      "content": "開發庫存管理系統",
+      "name": "Eva Chen"
+    },
+    {
+      "id": "34",
+      "title": "live chat integration",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 210,
+      "isFav": true,
+      "type": "發案",
+      "job": "全端",
+      "content": "集成實時聊天系統",
+      "name": "Frankie Sun"
+    },
+    {
+      "id": "35",
+      "title": "photo gallery website",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 180,
+      "isFav": false,
+      "type": "接案",
+      "job": "前端",
+      "content": "建立一個圖片庫網站",
+      "name": "Grace Zhao"
+    },
+    {
+      "id": "36",
+      "title": "digital marketing strategy",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 130,
+      "isFav": true,
+      "type": "發案",
+      "job": "行銷",
+      "content": "提供數字行銷策略",
+      "name": "Hannah Liu"
+    },
+    {
+      "id": "37",
+      "title": "website analytics tool",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 260,
+      "isFav": false,
+      "type": "接案",
+      "job": "後端",
+      "content": "開發網站分析工具",
+      "name": "Ian Zhang"
+    },
+    {
+      "id": "38",
+      "title": "blogging platform",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 150,
+      "isFav": true,
+      "type": "發案",
+      "job": "前端",
+      "content": "建立一個博客平台",
+      "name": "Jessica Wang"
+    },
+    {
+      "id": "39",
+      "title": "subscription service",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 220,
+      "isFav": false,
+      "type": "接案",
+      "job": "後端",
+      "content": "創建一個訂閱服務系統",
+      "name": "Kevin Li"
+    },
+    {
+      "id": "40",
+      "title": "chatbot for customer service",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 270,
+      "isFav": true,
+      "type": "發案",
+      "job": "AI開發",
+      "content": "設計用於客服的聊天機器人",
+      "name": "Laura Zhang"
+    },
+    {
+      "id": "41",
+      "title": "real-time notifications",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 200,
+      "isFav": false,
+      "type": "接案",
+      "job": "後端",
+      "content": "實現即時通知系統",
+      "name": "Mark Wang"
+    },
+    {
+      "id": "42",
+      "title": "online booking system",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 300,
+      "isFav": true,
+      "type": "發案",
+      "job": "後端",
+      "content": "開發線上預訂系統",
+      "name": "Nina Tan"
+    },
+    {
+      "id": "43",
+      "title": "fitness app",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 250,
+      "isFav": false,
+      "type": "接案",
+      "job": "移動端開發",
+      "content": "開發一款健身應用程式",
+      "name": "Oscar Liu"
+    },
+    {
+      "id": "44",
+      "title": "interactive website",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 190,
+      "isFav": true,
+      "type": "發案",
+      "job": "前端",
+      "content": "設計並開發一個互動網站",
+      "name": "Peter Sun"
+    },
+    {
+      "id": "45",
+      "title": "audio streaming service",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 240,
+      "isFav": false,
+      "type": "接案",
+      "job": "後端",
+      "content": "開發音頻流媒體服務",
+      "name": "Quincy Zhao"
+    },
+    {
+      "id": "46",
+      "title": "document management system",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 180,
+      "isFav": true,
+      "type": "發案",
+      "job": "後端",
+      "content": "建立文件管理系統",
+      "name": "Rachel Li"
+    },
+    {
+      "id": "47",
+      "title": "freelancer platform",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 220,
+      "isFav": false,
+      "type": "接案",
+      "job": "全端",
+      "content": "開發自由職業者平台",
+      "name": "Steve Hu"
+    },
+    {
+      "id": "48",
+      "title": "crowdfunding platform",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 260,
+      "isFav": true,
+      "type": "發案",
+      "job": "後端",
+      "content": "建立一個眾籌平台",
+      "name": "Tracy Wang"
+    },
+    {
+      "id": "49",
+      "title": "interactive game",
+      "img": "https://picsum.photos/200?random=1",
+      "views": 280,
+      "isFav": false,
+      "type": "接案",
+      "job": "遊戲開發",
+      "content": "開發互動遊戲",
+      "name": "Ursula Zhang"
+    }
+  ],
+  "search": [
+    {
+      "id": "1",
+      "title": "專案介紹",
+      "bg": "https://picsum.photos/600?random=1",
+      "avatar": "https://picsum.photos/200?random=1",
+      "images": [
+        "https://picsum.photos/800?random=1",
+        "https://picsum.photos/800?random=2",
+        "https://picsum.photos/800?random=3",
+        "https://picsum.photos/800?random=4"
+      ],
+      "views": 120,
+      "isFav": true,
+      "type": "發案",
+      "articleType": "圖文",
+      "job": "後端",
+      "content": "專案概述以及如何開始。",
+      "name": "Alice"
+    },
+    {
+      "id": "2",
+      "title": "影音教學：網站建設",
+      "bg": "https://picsum.photos/600?random=2",
+      "avatar": "https://picsum.photos/200?random=2",
+      "images": [
+        "https://picsum.photos/800?random=5",
+        "https://picsum.photos/800?random=6",
+        "https://picsum.photos/800?random=7",
+        "https://picsum.photos/800?random=8"
+      ],
+      "views": 250,
+      "isFav": false,
+      "type": "課程",
+      "articleType": "短影音",
+      "job": "全端",
+      "content": "這是一段講解如何建設網站的影音內容。",
+      "name": "Bob"
+    },
+    {
+      "id": "3",
+      "title": "最新前端技術",
+      "bg": "https://picsum.photos/600?random=3",
+      "avatar": "https://picsum.photos/200?random=3",
+      "images": [
+        "https://picsum.photos/800?random=9",
+        "https://picsum.photos/800?random=10",
+        "https://picsum.photos/800?random=11",
+        "https://picsum.photos/800?random=12"
+      ],
+      "views": 300,
+      "isFav": true,
+      "type": "發案",
+      "articleType": "圖文",
+      "job": "UI 設計師",
+      "content": "探索當前前端技術及框架的最新趨勢。",
+      "name": "Charlie"
+    },
+    {
+      "id": "4",
+      "title": "視頻面試技巧",
+      "bg": "https://picsum.photos/600?random=4",
+      "avatar": "https://picsum.photos/200?random=4",
+      "images": [
+        "https://picsum.photos/800?random=13",
+        "https://picsum.photos/800?random=14",
+        "https://picsum.photos/800?random=15",
+        "https://picsum.photos/800?random=16"
+      ],
+      "views": 150,
+      "isFav": false,
+      "type": "課程",
+      "articleType": "短影音",
+      "job": "面試官",
+      "content": "這是我們的視頻教程，教你如何在面試中表現出色。",
+      "name": "David"
+    },
+    {
+      "id": "5",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=5",
+      "avatar": "https://picsum.photos/200?random=5",
+      "images": [
+        "https://picsum.photos/800?random=17",
+        "https://picsum.photos/800?random=18",
+        "https://picsum.photos/800?random=19",
+        "https://picsum.photos/800?random=20"
+      ],
+      "views": 200,
+      "isFav": true,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "Eve"
+    },
+    {
+      "id": "6",
+      "title": "前端開發工具介紹",
+      "bg": "https://picsum.photos/600?random=6",
+      "avatar": "https://picsum.photos/200?random=6",
+      "images": [
+        "https://picsum.photos/800?random=21",
+        "https://picsum.photos/800?random=22",
+        "https://picsum.photos/800?random=23",
+        "https://picsum.photos/800?random=24"
+      ],
+      "views": 180,
+      "isFav": false,
+      "type": "發案",
+      "articleType": "圖文",
+      "job": "前端工程師",
+      "content": "在這篇文章中，我會介紹一些必備的前端開發工具。",
+      "name": "Frank"
+    },
+    {
+      "id": "7",
+      "title": "如何使用 Git 進行版本控制",
+      "bg": "https://picsum.photos/600?random=7",
+      "avatar": "https://picsum.photos/200?random=7",
+      "images": [
+        "https://picsum.photos/800?random=25",
+        "https://picsum.photos/800?random=26",
+        "https://picsum.photos/800?random=27",
+        "https://picsum.photos/800?random=28"
+      ],
+      "views": 220,
+      "isFav": true,
+      "type": "課程",
+      "articleType": "圖文",
+      "job": "後端工程師",
+      "content": "這篇文章詳細介紹如何使用 Git 進行版本控制。",
+      "name": "Grace"
+    },
+    {
+      "id": "8",
+      "title": "編程語言的未來",
+      "bg": "https://picsum.photos/600?random=8",
+      "avatar": "https://picsum.photos/200?random=8",
+      "images": [
+        "https://picsum.photos/800?random=29",
+        "https://picsum.photos/800?random=30",
+        "https://picsum.photos/800?random=31",
+        "https://picsum.photos/800?random=32"
+      ],
+      "views": 500,
+      "isFav": false,
+      "type": "討論",
+      "articleType": "短影音",
+      "job": "開發者",
+      "content": "這是一段有關編程語言未來發展的討論視頻。",
+      "name": "Hank"
+    },
+    {
+      "id": "9",
+      "title": "解密 UX/UI 設計",
+      "bg": "https://picsum.photos/600?random=9",
+      "avatar": "https://picsum.photos/200?random=9",
+      "images": [
+        "https://picsum.photos/800?random=33",
+        "https://picsum.photos/800?random=34",
+        "https://picsum.photos/800?random=35",
+        "https://picsum.photos/800?random=36"
+      ],
+      "views": 410,
+      "isFav": true,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "UX 設計師",
+      "content": "這篇文章會深入解釋 UX/UI 設計的基本原則和實踐。",
+      "name": "Ivy"
+    },
+    {
+      "id": "10",
+      "title": "敏捷開發工作流程",
+      "bg": "https://picsum.photos/600?random=10",
+      "avatar": "https://picsum.photos/200?random=10",
+      "images": [
+        "https://picsum.photos/800?random=37",
+        "https://picsum.photos/800?random=38",
+        "https://picsum.photos/800?random=39",
+        "https://picsum.photos/800?random=40"
+      ],
+      "views": 130,
+      "isFav": true,
+      "type": "課程",
+      "articleType": "短影音",
+      "job": "專案經理",
+      "content": "介紹敏捷開發的工作流程以及最佳實踐。",
+      "name": "Jack"
+    },
+    {
+      "id": "11",
+      "title": "如何在 SEO 中獲得高排名",
+      "bg": "https://picsum.photos/600?random=11",
+      "avatar": "https://picsum.photos/200?random=11",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 650,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "SEO 專家",
+      "content": "這篇文章會介紹一些提升網站排名的 SEO 技巧。",
+      "name": "Kara"
+    },
+    {
+      "id": "12",
+      "title": "創建 API 的最佳實踐",
+      "bg": "https://picsum.photos/600?random=12",
+      "avatar": "https://picsum.photos/200?random=12",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 320,
+      "isFav": true,
+      "type": "教程",
+      "articleType": "圖文",
+      "job": "API 開發者",
+      "content": "本教程介紹如何設計高效的 API 和最佳實踐。",
+      "name": "Liam"
+    },
+    {
+      "id": "13",
+      "title": "網絡安全基礎",
+      "bg": "https://picsum.photos/600?random=13",
+      "avatar": "https://picsum.photos/200?random=13",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 480,
+      "isFav": false,
+      "type": "課程",
+      "articleType": "短影音",
+      "job": "安全專家",
+      "content": "視頻介紹網絡安全的基本知識及防護措施。",
+      "name": "Mona"
+    },
+    {
+      "id": "14",
+      "title": "現代 JavaScript 框架",
+      "bg": "https://picsum.photos/600?random=14",
+      "avatar": "https://picsum.photos/200?random=14",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 370,
+      "isFav": true,
+      "type": "發案",
+      "articleType": "圖文",
+      "job": "JavaScript 開發者",
+      "content": "這篇文章介紹現代 JavaScript 框架的比較與選擇。",
+      "name": "Nina"
+    },
+    {
+      "id": "15",
+      "title": "面向對象編程基礎",
+      "bg": "https://picsum.photos/600?random=15",
+      "avatar": "https://picsum.photos/200?random=15",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 420,
+      "isFav": false,
+      "type": "教程",
+      "articleType": "短影音",
+      "job": "軟件工程師",
+      "content": "這段視頻介紹面向對象編程的基礎知識。",
+      "name": "Oscar"
+    },
+    {
+      "id": "16",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=16",
+      "avatar": "https://picsum.photos/200?random=16",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": true,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "Ivan"
+    },
+    {
+      "id": "17",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=17",
+      "avatar": "https://picsum.photos/200?random=17",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "NoNo"
+    },
+    {
+      "id": "18",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=18",
+      "avatar": "https://picsum.photos/200?random=18",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "Yes Nam"
+    },
+    {
+      "id": "19",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=19",
+      "avatar": "https://picsum.photos/200?random=19",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "NoNo"
+    },
+    {
+      "id": "20",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=20",
+      "avatar": "https://picsum.photos/200?random=20",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "Yes Nam"
+    },
+    {
+      "id": "21",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=21",
+      "avatar": "https://picsum.photos/200?random=21",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "NoNo"
+    },
+    {
+      "id": "22",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=22",
+      "avatar": "https://picsum.photos/200?random=22",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "Yes Nam"
+    },
+    {
+      "id": "23",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=23",
+      "avatar": "https://picsum.photos/200?random=23",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "NoNo"
+    },
+    {
+      "id": "24",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=24",
+      "avatar": "https://picsum.photos/200?random=24",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "Yes Nam"
+    },
+    {
+      "id": "25",
+      "title": "如何設計高效的界面",
+      "bg": "https://picsum.photos/600?random=25",
+      "avatar": "https://picsum.photos/200?random=25",
+      "images": [
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800",
+        "https://picsum.photos/800"
+      ],
+      "views": 200,
+      "isFav": false,
+      "type": "分享",
+      "articleType": "圖文",
+      "job": "產品經理",
+      "content": "介紹如何設計高效且用戶友好的界面。",
+      "name": "NoNo"
+    }
+  ],
+  "deposit": [
+    { "id": 1, "amount": 2, "date": "2024-10-12 12:00" },
+    { "id": 2, "amount": 5, "date": "2024-10-13 14:20" },
+    { "id": 3, "amount": 8, "date": "2024-10-14 09:30" },
+    { "id": 4, "amount": 3, "date": "2024-10-15 16:45" },
+    { "id": 5, "amount": 6, "date": "2024-10-16 11:10" },
+    { "id": 6, "amount": 7, "date": "2024-10-17 08:25" },
+    { "id": 7, "amount": 4, "date": "2024-10-18 10:15" },
+    { "id": 8, "amount": 9, "date": "2024-10-19 13:50" },
+    { "id": 9, "amount": 1, "date": "2024-10-20 17:05" },
+    { "id": 10, "amount": 3, "date": "2024-10-21 06:30" },
+    { "id": 11, "amount": 2, "date": "2024-10-22 07:45" },
+    { "id": 12, "amount": 5, "date": "2024-10-23 12:00" },
+    { "id": 13, "amount": 6, "date": "2024-10-24 14:35" },
+    { "id": 14, "amount": 4, "date": "2024-10-25 15:50" },
+    { "id": 15, "amount": 8, "date": "2024-10-26 18:20" }
+  ],
+  "member": {
+    "money": 260,
+    "name": "Alice Lee",
+    "id": 123456,
+    "location": "高雄",
+    "city": "前鎮",
+    "fans": 166,
+    "follower": 166
+  }
 }
